@@ -1,0 +1,6 @@
+Flask
+numpy
+pandas
+
+Werkzeug
+scikit-learn==1.2.2
